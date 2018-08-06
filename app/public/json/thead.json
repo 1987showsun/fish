@@ -1,0 +1,98 @@
+{
+    "profit" : [
+        {
+            "title"     : "鱼种",
+            "columnKey" : "name"
+        },
+        {
+            "title"     : "炮倍",
+            "columnKey" : "rate"
+        },
+        {
+            "title"     : "单价",
+            "columnKey" : "fishMoney"
+        },
+        {
+            "title"     : "总价值",
+            "columnKey" : "fishTotal"
+        },
+        {
+            "title"     : "子弹收入",
+            "columnKey" : "bulletMoney"
+        },
+        {
+            "title"     : "盈利",
+            "columnKey" : "earn"
+        },
+        {
+            "title"     : "仍存活(条)",
+            "columnKey" : "alive"
+        },
+        {
+            "title"     : "被捕获",
+            "columnKey" : "dead"
+        }
+    ],
+    "remainder" : [
+        {
+            "title"     : "鱼种",
+            "columnKey" : "name",
+            "total"     : "全部总计"
+        },
+        {
+            "title"     : "编号",
+            "columnKey" : "id"
+        },
+        {
+            "title"     : "价值",
+            "columnKey" : "price",
+            "total"     : ""
+        },
+        {
+            "title"     : "收入",
+            "columnKey" : "bulletMoney",
+            "total"     : ""
+        },
+        {
+            "title"     : "当前状态",
+            "columnKey" : "status"
+        }
+    ],
+    "income" : [
+        {
+            "title"     : "鱼种",
+            "columnKey" : "name",
+            "total"     : "全部总计"
+        },
+        {
+            "title"     : "编号",
+            "columnKey" : "id"
+        },
+        {
+            "title"     : "炮倍",
+            "columnKey" : "rate"
+        },
+        {
+            "title"     : "买鱼支出",
+            "columnKey" : "price",
+            "total"     : ""
+        },
+        {
+            "title"     : "子弹收入",
+            "columnKey" : "bulletMoney",
+            "total"     : ""
+        },
+        {
+            "title"     : "当前状态",
+            "columnKey" : "status"
+        },
+        {
+            "title"     : "结算时间",
+            "columnKey" : "settleTime"
+        },
+        {
+            "title"     : "购买时间",
+            "columnKey" : "createTime"
+        }
+    ]
+}
