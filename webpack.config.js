@@ -3,9 +3,6 @@ const webpack = require("webpack");
 const path = require("path");
 const CopyWebpackPlugin = require("copy-webpack-plugin");
 
-const apiUrl = "http://192.168.211.1:8090/";
-//const apiUrl = "http://203.95.195.185:20053/";
-
 //package 變數一定要 "NODE_ENV" 為開頭
 const keyName = {};
 Object.keys(process.env).map((key, i) => {
